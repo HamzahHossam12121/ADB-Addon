@@ -12,4 +12,4 @@
 
 5. move the settings.json and replace it with the old one.
 # There You Go!
-# My most prefered tool in organizing ADB programming!
+# My most prefered tool in organizing ADB programming I made myself!
